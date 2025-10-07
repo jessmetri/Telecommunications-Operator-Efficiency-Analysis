@@ -1,8 +1,8 @@
 ## Telecommunications-Operator-Efficiency-Analysis
-#Executive Summary
+Executive Summary
 This project conducts a comprehensive statistical evaluation of operator performance in the telecommunications sector, analyzing key operational metrics to identify efficiency and inefficiency patterns.
 
-📊 #Methodology
+📊 Methodology
 Data Preparation:
 
 Integration of customer datasets and call records
@@ -26,7 +26,7 @@ At Risk: Rate 5-10% or losses >20
 
 Highly Ineffective: Rate >10% or losses >50 with low volume
 
-📈 #Key Results
+📈 Key Results
 Operator Distribution:
 
 32.1% (351 operators) classified as "Highly Ineffective"
@@ -41,14 +41,14 @@ Mann-Whitney U test revealed significant differences (p<0.05) in drop rates betw
 
 High-volume operators showed lower relative drop rates but higher absolute impact
 
-🔍 #Actionable Insights
+🔍 Actionable Insights
 Precise Segmentation: 32.1% of operators identified require priority intervention
 
 Targeted Training: "At Risk" group can improve with specific programs
 
 Resource Optimization: Strategic reassignment based on objective metrics
 
-🛠 #Technologies Used
+🛠 Technologies Used
 Python (pandas, scipy, matplotlib, seaborn)
 
 Non-parametric statistical analysis
